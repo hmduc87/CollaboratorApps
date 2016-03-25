@@ -12,6 +12,7 @@ namespace CollaboratorApp.Controllers
         // GET: /Home/
         public ActionResult Index()
         {
+            //test trantanthanh
             return View();
         }
 	}
