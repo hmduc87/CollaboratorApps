@@ -13,6 +13,7 @@ namespace CollaboratorApp.Controllers
         public ActionResult Index()
         {
             //test trantanthanh
+            //test LeQuocAnh
             return View();
         }
 	}
